@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GioCatiopa
+- 👋 Hi, I’m @Gio
 - 👀 I'm a programmer and a web developer 
 - 🌱 I have knowledge in the languages C, C#, Java, Python, HTML, CSS, JS, PHP and SQL.
 - ✨ I currently studying Applied Computer Science.
